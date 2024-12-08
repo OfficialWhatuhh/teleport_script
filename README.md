@@ -2,20 +2,22 @@
 FiveM Teleport Script | Free
 
 Make sure to make a folder named "src" and drag everything but the fx manifest into that folder
+Also delete the readme and license, you don't need that
 Then you change the coords to your needed coords
 
+
 If you want/need help dm me on discord "Whatuhh"
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
