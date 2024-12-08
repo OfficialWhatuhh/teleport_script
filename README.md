@@ -1,4 +1,4 @@
-# teleport_script
+# FiveM Teleport Script
 FiveM Teleport Script | Free
 
 Make sure to make a folder named "src" and drag everything but the fx manifest into that folder
